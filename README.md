@@ -6,3 +6,7 @@ Will you choose the ✨ Hacktoberfest t-shirt ✨ but don't want to stop contrib
 Don't forget to read our contributing guide
 
 Logo
+
+
+
+Name: Pritam Dhara
